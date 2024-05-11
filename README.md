@@ -1,2 +1,2 @@
 # weather-app
-created weather forecasting app using HTML, CSS and JS
+created weather forecasting app using HTML, CSS and JS task1
