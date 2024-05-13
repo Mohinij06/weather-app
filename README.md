@@ -1,5 +1,5 @@
 # weather-app
-created weather forecasting app using HTML, CSS and JS task1
+created weather forecasting app using HTML, CSS and JS task2
 
 Name : Mohini Jadhav
 id :CTFWD88
